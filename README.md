@@ -11,7 +11,10 @@ Daftar isi
     - 2.4 break and contionue Statements and else Clauses on Loops
     - 2.5 pass Statements
     - 2.6 while Statements
-    
+    - 2.7 Defining Functions
+        - 2.7.1 Default Argument Values
+        - 2.7.2 Lambda Expressions
+        - 2.7.3 Documentation Strings
 
 
 

@@ -10,9 +10,8 @@ Daftar isi
     - 2.3 The range() Functions
     - 2.4 break and contionue Statements and else Clauses on Loops
     - 2.5 pass Statements
-
-
-
+    - 2.6 while Statements
+    
 
 
 

@@ -21,6 +21,7 @@ while True:
     print('Who are you?')
     name = input()
     if name != 'Joe':
+        # print("You are not Joe")
         continue
     print('Hello, Joe. What is the password? (It is a fish.)')
     password = input()

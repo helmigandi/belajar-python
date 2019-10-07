@@ -4,18 +4,17 @@
     - 1.1 [Numbers][1]
     - 1.2 [Strings][2]
     - 1.3 [Lists][3]
-<<<<<<< HEAD
 2. __Control Flow__
-    - 2.1 if Statements
-    - 2.2 for Statements
-    - 2.3 The range() Functions
-    - 2.4 break and contionue Statements and else Clauses on Loops
-    - 2.5 pass Statements
-    - 2.6 while Statements
-    - 2.7 Defining Functions
-        - 2.7.1 Default Argument Values
-        - 2.7.2 Lambda Expressions
-        - 2.7.3 Documentation Strings
+    - 2.1 [if Statements][4]
+    - 2.2 [for Statements][5]
+    - 2.3 [The range() Functions][6]
+    - 2.4 [break][7] and [contionue][8] Statements
+    - 2.5 [pass Statements][9]
+    - 2.6 [while Statements][10]
+    - 2.7 [Defining Functions][11]
+        - 2.7.1 [Default Argument Values][12]
+        - 2.7.2 [Lambda Expressions][13]
+        - 2.7.3 [Documentation Strings][14]
 3. __Data Structures__
     - 3.1 More on List
         - 3.1.1 Using List as Stacks
@@ -29,21 +28,6 @@
     - 3.6 Looping Techniques
     - 3.7 More on Conditions
     - 3.8 Comparing Sequences and Other Types
-=======
-2. Control Flow
-    - 2.1 [if Statements][4]
-    - 2.2 [for Statements][5]
-    - 2.3 [The range() Functions][6]
-    - 2.4 [break][7] and [contionue][8] Statements
-    - 2.5 [pass Statements][9]
-    - 2.6 [while Statements][10]
-    - 2.7 [Defining Functions][11]
-        - 2.7.1 [Default Argument Values][12]
-        - 2.7.2 [Lambda Expressions][13]
-        - 2.7.3 [Documentation Strings][14]
->>>>>>> ec47b3e17ddc15a8692592504359e3662a45cab1
-
-
 
 
 

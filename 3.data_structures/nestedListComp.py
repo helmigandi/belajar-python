@@ -69,3 +69,65 @@ planets = [['Mercury', 'Venus', 'Earth'], ['Mars', 'Jupiter', 'Saturn'], ['Uranu
 flatten_planets = [planet for sublist in planets for planet in sublist if len(planet) < 6] 
           
 print(flatten_planets) 
+
+
+# Example 4
+#
+print("-------------------")
+# Assume that we have a few friends over, and that we have 
+# decided to play several games of Scrabble. 
+# Being Python programmers, we have stored our scores 
+# in a dictionary:
+
+scores={'Reuven':[300, 250, 350, 400], 
+'Atara':[200, 300, 450, 150], 
+'Shikma':[250, 380, 420, 120],
+'Amotz':[100, 120, 150, 180] }
+
+def average(scores):  
+    return sum(scores) / len(scores)
+
+print({ name : average(score)
+    for name, score in scores.items() })
+# {'Amotz': 137, 'Atara': 275, 'Reuven': 325, 'Shikma': 292}
+print(average([ one_score  
+              for one_player_scores in scores.values()  
+              for one_score in one_player_scores ]))
+# 257
+
+print([ one_score      
+      for one_player_scores in scores.values()     
+      for one_score in one_player_scores
+      if one_score > 200])
+# [300, 250, 350, 400, 300, 450, 250, 380, 420]
+
+#If I want to put these above-200 scores into a CSV file 
+# of some sort
+print(','.join([ str(one_score)  
+               for one_player_scores in scores.values() 
+               for one_score in one_player_scores  
+               if one_score > 200]))
+# '300,250,350,400,300,450,250,380,420'
+
+
+# Example 5
+#
+print("-------------------")
+rooms = [[{'age': 14, 'hobby': 'horses', 'name': 'Andi'},  
+          {'age': 12, 'hobby': 'piano', 'name': 'Bobby'},  
+          {'age': 9, 'hobby': 'chess', 'name': 'Chintia'}],  
+         [{'age': 15, 'hobby': 'programming', 'name': 'Dara'}, 
+          {'age': 17, 'hobby': 'driving', 'name': 'Endang'}],  
+         [{'age': 45, 'hobby': 'writing', 'name': 'Faris'},  
+          {'age': 43, 'hobby': 'chess', 'name': 'Gea'}]]
+
+print([ person['name']      
+       for room in rooms
+       for person in room ])
+# ['Andi','Bobby','Chintia','Dara','Endang','Faris','Gea']
+
+print([ person['name']  
+      for room in rooms  
+      for person in room  
+      if person['hobby'] == 'chess' ])
+# ['Chintia', 'Gea']

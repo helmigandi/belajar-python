@@ -2,7 +2,7 @@
 # list based on some iterable. An iterable is something you can 
 # loop over.
 
-# [Output Expression for Item in Iterable if Condition]
+# [<Output Expression> for <Item> in <Iterable> if <Condition>]
 
 # List Comprehensions is used to create a new list from an 
 # existing list

@@ -80,3 +80,6 @@ for x in range(fruits.count("banana")):
     fruits.remove("banana")
 print(fruits)
 
+
+# list.clear()
+# Remove all items from the list. Equivalent to del a[:].

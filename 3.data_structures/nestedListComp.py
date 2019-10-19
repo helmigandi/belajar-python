@@ -131,3 +131,10 @@ print([ person['name']
       for person in room  
       if person['hobby'] == 'chess' ])
 # ['Chintia', 'Gea']
+
+# Example 6
+#
+print("-------------------")
+xs = list(range(5))
+ys = [2 * x for x in xs if x > 3 else x + 1]
+print(ys)

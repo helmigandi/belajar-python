@@ -16,19 +16,17 @@
         - 2.7.2 [Lambda Expressions][13]
         - 2.7.3 [Documentation Strings][14]
 3. __Data Structures__
-    - 3.1 More on List
-        - 3.1.1 Using List as Stacks
-        - 3.1.2 Using List as Queues
-        - 3.1.3 List Comprehensions
-        - 3.1.4 Nested List Comprehensions
-    - 3.2 The del Statement
-    - 3.3 Tuples and Sequences
-    - 3.4 Sets
-    - 3.5 Dictionaries
-    - 3.6 Looping Techniques
-    - 3.7 More on Conditions
-    - 3.8 Comparing Sequences and Other Types
-
+    - 3.1 [More on List][15]
+        - 3.1.1 [Using List as Stacks][16]
+        - 3.1.2 [Using List as Queues][17]
+        - 3.1.3 [List Comprehensions][18]
+        - 3.1.4 [Nested List Comprehensions][19]
+    - 3.2 [The del Statement][20]
+    - 3.3 [Tuples and Sequences][21]
+    - 3.4 [Sets][22]
+    - 3.5 [Dictionaries][23] with example [1][24], [2][25] and [3][26]
+    - 3.6 [Looping Techniques][27]
+    - 3.7 [More on Conditions][28]
 
 
 
@@ -58,3 +56,19 @@
 [12]: https://github.com/helmiz/belajar-python/blob/master/2.control_flow/DAV.py
 [13]: https://github.com/helmiz/belajar-python/blob/master/2.control_flow/lambdaFunction.py
 [14]: https://github.com/helmiz/belajar-python/blob/master/2.control_flow/docString.py
+[15]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/moreList.py
+[16]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/stack.py
+[17]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/queue.py
+[18]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/listcomp.py
+[19]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/nestedListComp.py
+[20]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/del.py
+[21]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/tuples.py 
+[22]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/sets.py
+[23]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/dict.py
+[24]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/dictEx.py
+[25]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/dictEx1.py
+[26]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/dictEx2.py
+[27]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/loopTech.py
+[28]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/moreCon.py
+[29]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/stack.py
+[30]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/stack.py

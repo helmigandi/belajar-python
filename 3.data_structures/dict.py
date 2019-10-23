@@ -216,3 +216,41 @@ dict1 = {'a': 1, 'b': 2, 'c': 3, 'd': 4, 'e': 5}
 # Double each value in the dictionary
 double_dict1 = {k:v*2 for (k,v) in dict1.items()}
 print(double_dict1)
+# {'e': 10, 'a': 2, 'c': 6, 'b': 4, 'd': 8}
+
+# Initialize the `fahrenheit` dictionary 
+fahrenheit = {'t1': -30,'t2': -20,'t3': -10,'t4': 0}
+# Get the corresponding `celsius` values and create the new dictionary
+celsius = {k:(float(5)/9)*(v-32) for (k,v) in fahrenheit.items()}
+print(celsius_dict)
+# {'t2': -28.88888888888889, 't3': -23.333333333333336, 't1': -34.44444444444444, 't4': -17.77777777777778}
+
+# If Condition
+dict1 = {'a': 1, 'b': 2, 'c': 3, 'd': 4, 'e': 5}
+# Check for items greater than 2
+dict1_cond = {k:v for (k,v) in dict1.items() if v>2}
+print(dict1_cond)
+# {'e': 5, 'c': 3, 'd': 4}
+
+# Multiple If Conditions
+dict1_doubleCond = {k:v for (k,v) in dict1.items() if v>2 if v%2 == 0}
+print(dict1_doubleCond)
+# {'d': 4}
+
+dict1 = {'a': 1, 'b': 2, 'c': 3, 'd': 4, 'e': 5, 'f':6}
+dict1_tripleCond = {k:v for (k,v) in dict1.items() if v>2 if v%2 == 0 if v%3 == 0}
+print(dict1_tripleCond)
+# {'f': 6}
+
+# If-Else Conditions
+dict1 = {'a': 1, 'b': 2, 'c': 3, 'd': 4, 'e': 5, 'f':6}
+# Identify odd and even entries
+dict1_tripleCond = {k:('even' if v%2==0 else 'odd') for (k,v) in dict1.items()}
+print(dict1_tripleCond)
+# {'f': 'even', 'c': 'odd', 'b': 'even', 'd': 'even', 'e': 'odd', 'a': 'odd'}
+
+# Nested Dictionary Comprehension
+nested_dict = {'first':{'a':1}, 'second':{'b':2}}
+float_dict = {outer_k: {float(inner_v) for (inner_k, inner_v) in outer_v.items()} for (outer_k, outer_v) in nested_dict.items()}
+print(float_dict)
+# {'first': {1.0}, 'second': {2.0}}

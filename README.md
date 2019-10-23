@@ -28,15 +28,8 @@
     - 3.6 [Looping Techniques][27]
     - 3.7 [More on Conditions][28]
 4. __Modules__
-<<<<<<< HEAD
-    - 4.1 Modules
-    - 4.2 Packages
-
-=======
     - 4.1 [Modules][29]
     - 4.2 [Packages][30]
->>>>>>> 1fea31d653625ce4a28b354f70b59f4140155468
-
 
 
 

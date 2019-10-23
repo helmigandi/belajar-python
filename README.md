@@ -27,6 +27,10 @@
     - 3.5 [Dictionaries][23] with example [1][24], [2][25] and [3][26]
     - 3.6 [Looping Techniques][27]
     - 3.7 [More on Conditions][28]
+4. __Modules__
+    - 4.1 [Modules][29]
+    - 4.2 [Packages][30]
+
 
 
 
@@ -70,5 +74,5 @@
 [26]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/dictEx2.py
 [27]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/loopTech.py
 [28]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/moreCon.py
-[29]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/stack.py
-[30]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/stack.py
+[29]: https://github.com/helmiz/belajar-python/blob/master/4.modules/module.py
+[30]: https://github.com/helmiz/belajar-python/blob/master/4.modules/package.py

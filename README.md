@@ -24,10 +24,12 @@
     - 3.2 The del Statement
     - 3.3 Tuples and Sequences
     - 3.4 Sets
-    - 3.5 Dictionaries
+    - 3.5 Dictionaries with Example 1, 2, & 3
     - 3.6 Looping Techniques
     - 3.7 More on Conditions
-    - 3.8 Comparing Sequences and Other Types
+4. __Modules__
+    - 4.1 Modules
+    - 4.2 Packages
 
 
 

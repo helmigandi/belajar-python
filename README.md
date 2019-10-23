@@ -27,9 +27,20 @@
     - 3.5 [Dictionaries][23] with example [1][24], [2][25] and [3][26]
     - 3.6 [Looping Techniques][27]
     - 3.7 [More on Conditions][28]
-4. __Modules__
+4. __Modules__  
     - 4.1 [Modules][29]
     - 4.2 [Packages][30]
+5. __Input and Output__
+    - 5.1. Fancier Output Formatting
+        - 5.1.1. Formatted String Literals
+        - 5.1.2. The String format() Method
+        - 5.1.3. Manual String Formatting
+        - 5.1.4. Old string formatting
+    - 5.2. Reading and Writing Files
+        - 5.2.1. Methods of File Objects
+        - 5.2.2. Saving structured data with json
+
+
 
 
 

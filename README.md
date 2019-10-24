@@ -32,13 +32,16 @@
     - 4.2 [Packages][30]
 5. __Input and Output__
     - 5.1. Fancier Output Formatting
-        - 5.1.1. Formatted String Literals
-        - 5.1.2. The String format() Method
-        - 5.1.3. Manual String Formatting
-        - 5.1.4. Old string formatting
     - 5.2. Reading and Writing Files
-        - 5.2.1. Methods of File Objects
-        - 5.2.2. Saving structured data with json
+6. __Errors and Exceptions__
+    - 8.1. Syntax Errors
+    - 8.2. Exceptions
+    - 8.3. Handling Exceptions
+    - 8.4. Raising Exceptions
+    - 8.5. User-defined Exceptions
+    - 8.6. Defining Clean-up Actions
+    - 8.7. Predefined Clean-up Actions
+
 
 
 

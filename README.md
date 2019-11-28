@@ -38,9 +38,9 @@
     - 6.2. [Exceptions][34]
     - 6.3. [Handling Exceptions][35]
 7. __Classes__
-    - 7.1. Class Part 1 and Class Part 2
-    - 7.2. Inheritance Part 1, Part 2 and Part 3
-    - 7.3. Generators
+    - 7.1. [Class Part 1][36] and [Class Part 2][37]
+    - 7.2. Inheritance [Part 1][38], [Part 2][39] and [Part 3][40] | [Example 1][41] and [Example 2][42]
+    - 7.3. [Generators][43]
 
 
 
@@ -104,7 +104,11 @@ Sources:
 [33]: https://github.com/helmiz/belajar-python/blob/master/6.errors_exceptions/syntax.py
 [34]: https://github.com/helmiz/belajar-python/blob/master/6.errors_exceptions/exceptions.py
 [35]: https://github.com/helmiz/belajar-python/blob/master/6.errors_exceptions/handlingExceptions.py
-[36]:
-[37]:
-[38]:
-[39]:
+[36]: https://github.com/helmiz/belajar-python/blob/master/7.classes/class.py
+[37]: https://github.com/helmiz/belajar-python/blob/master/7.classes/class1.py
+[38]: https://github.com/helmiz/belajar-python/blob/master/7.classes/inherit.py
+[39]: https://github.com/helmiz/belajar-python/blob/master/7.classes/inherit1.py
+[40]: https://github.com/helmiz/belajar-python/blob/master/7.classes/inherit2.py
+[41]: https://github.com/helmiz/belajar-python/blob/master/7.classes/program.py
+[42]: https://github.com/helmiz/belajar-python/blob/master/7.classes/hr.py
+[43]: https://github.com/helmiz/belajar-python/blob/master/7.classes/Generators.py

@@ -173,6 +173,13 @@ you can give the user another chance to enter the right value type.
 
 """
 
+try:
+    print ('Press Return or Ctrl+C:')
+    ignore = input()
+except KeyboardInterrupt:
+    print ('Caught KeyboardInterrupt')
+else:
+    print ('No exception')
 
 
 

@@ -37,6 +37,10 @@
     - 8.1. Syntax Errors
     - 8.2. Exceptions
     - 8.3. Handling Exceptions
+7. __Classes__
+    - 7.1. Class Part 1 and Class Part 2
+    - 7.2. Inheritance Part 1, Part 2 and Part 3
+    - 7.3. Generators
 
 
 

@@ -53,16 +53,16 @@
 
 
 Sources:
-https://www.geeksforgeeks.org/
-https://realpython.com/
-https://www.datacamp.com/community/tutorials    
-https://www.python-course.eu
-https://www.hackerearth.com/practice/
-https://geek-university.com/python/
-http://openbookproject.net/thinkcs/python/english3e/index.html
-https://www.includehelp.com/python/
-https://developers.google.com/edu/python
-http://automatetheboringstuff.com/#toc
+- https://www.geeksforgeeks.org/
+- https://realpython.com/
+- https://www.datacamp.com/community/tutorials    
+- https://www.python-course.eu
+- https://www.hackerearth.com/practice/
+- https://geek-university.com/python/
+- http://openbookproject.net/thinkcs/python/english3e/index.html
+- https://www.includehelp.com/python/
+- https://developers.google.com/edu/python
+- http://automatetheboringstuff.com/#toc
 
 
 [1]: https://github.com/helmiz/belajar-python/blob/master/1.introduction/number.py

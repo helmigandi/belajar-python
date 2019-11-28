@@ -15,6 +15,7 @@
         - 2.7.1 [Default Argument Values][12]
         - 2.7.2 [Lambda Expressions][13]
         - 2.7.3 [Documentation Strings][14]
+        - 2.7.4 [Zip][46]
 3. __Data Structures__
     - 3.1 [More on List][15]
         - 3.1.1 [Using List as Stacks][16]
@@ -116,3 +117,4 @@ Sources:
 # Update
 [44]: https://github.com/helmiz/belajar-python/blob/master/2.control_flow/functions1.py
 [45]: https://github.com/helmiz/belajar-python/blob/master/2.control_flow/functions2.py
+[46]: https://github.com/helmiz/belajar-python/blob/master/2.control_flow/zip.py

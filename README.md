@@ -53,6 +53,7 @@
 
 
 Sources:
+- https://docs.python.org/3/tutorial/
 - https://www.geeksforgeeks.org/
 - https://realpython.com/
 - https://www.datacamp.com/community/tutorials    

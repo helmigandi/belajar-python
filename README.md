@@ -31,8 +31,8 @@
     - 4.1 [Modules][29]
     - 4.2 [Packages][30]
 5. __Input and Output__
-    - 5.1. Fancier Output Formatting
-    - 5.2. Reading and Writing Files
+    - 5.1. [Fancier Output Formatting][31]
+    - 5.2. [Reading and Writing Files][32]
 6. __Errors and Exceptions__
     - 8.1. Syntax Errors
     - 8.2. Exceptions
@@ -89,3 +89,12 @@
 [28]: https://github.com/helmiz/belajar-python/blob/master/3.data_structures/moreCon.py
 [29]: https://github.com/helmiz/belajar-python/blob/master/4.modules/module.py
 [30]: https://github.com/helmiz/belajar-python/blob/master/4.modules/package.py
+[31]: https://github.com/helmiz/belajar-python/blob/master/5.io/fancierOutput.py
+[32]: https://github.com/helmiz/belajar-python/blob/master/5.io/readingwriting.py
+[33]:
+[34]:
+[35]:
+[36]:
+[37]:
+[38]:
+[39]:

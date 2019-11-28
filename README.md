@@ -11,7 +11,7 @@
     - 2.4 [break][7] and [contionue][8] Statements
     - 2.5 [pass Statements][9]
     - 2.6 [while Statements][10]
-    - 2.7 [Defining Functions][11]
+    - 2.7 Defining Functions [Part 1][11], [Part 2][44], and [Part 3][45]
         - 2.7.1 [Default Argument Values][12]
         - 2.7.2 [Lambda Expressions][13]
         - 2.7.3 [Documentation Strings][14]
@@ -112,3 +112,7 @@ Sources:
 [41]: https://github.com/helmiz/belajar-python/blob/master/7.classes/program.py
 [42]: https://github.com/helmiz/belajar-python/blob/master/7.classes/hr.py
 [43]: https://github.com/helmiz/belajar-python/blob/master/7.classes/Generators.py
+
+# Update
+[44]: https://github.com/helmiz/belajar-python/blob/master/2.control_flow/functions1.py
+[45]: https://github.com/helmiz/belajar-python/blob/master/2.control_flow/functions2.py

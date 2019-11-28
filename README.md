@@ -37,10 +37,6 @@
     - 8.1. Syntax Errors
     - 8.2. Exceptions
     - 8.3. Handling Exceptions
-    - 8.4. Raising Exceptions
-    - 8.5. User-defined Exceptions
-    - 8.6. Defining Clean-up Actions
-    - 8.7. Predefined Clean-up Actions
 
 
 
@@ -56,7 +52,17 @@
 
 
 
-
+Sources:
+https://www.geeksforgeeks.org/
+https://realpython.com/
+https://www.datacamp.com/community/tutorials    
+https://www.python-course.eu
+https://www.hackerearth.com/practice/
+https://geek-university.com/python/
+http://openbookproject.net/thinkcs/python/english3e/index.html
+https://www.includehelp.com/python/
+https://developers.google.com/edu/python
+http://automatetheboringstuff.com/#toc
 
 
 [1]: https://github.com/helmiz/belajar-python/blob/master/1.introduction/number.py

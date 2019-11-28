@@ -34,9 +34,9 @@
     - 5.1. [Fancier Output Formatting][31]
     - 5.2. [Reading and Writing Files][32]
 6. __Errors and Exceptions__
-    - 8.1. Syntax Errors
-    - 8.2. Exceptions
-    - 8.3. Handling Exceptions
+    - 6.1. [Syntax Errors][33]
+    - 6.2. [Exceptions][34]
+    - 6.3. [Handling Exceptions][35]
 7. __Classes__
     - 7.1. Class Part 1 and Class Part 2
     - 7.2. Inheritance Part 1, Part 2 and Part 3
@@ -55,18 +55,18 @@
 
 
 
-
 Sources:
-https://www.geeksforgeeks.org/
-https://realpython.com/
-https://www.datacamp.com/community/tutorials    
-https://www.python-course.eu
-https://www.hackerearth.com/practice/
-https://geek-university.com/python/
-http://openbookproject.net/thinkcs/python/english3e/index.html
-https://www.includehelp.com/python/
-https://developers.google.com/edu/python
-http://automatetheboringstuff.com/#toc
+- https://docs.python.org/3/tutorial/
+- https://www.geeksforgeeks.org/
+- https://realpython.com/
+- https://www.datacamp.com/community/tutorials    
+- https://www.python-course.eu
+- https://www.hackerearth.com/practice/
+- https://geek-university.com/python/
+- http://openbookproject.net/thinkcs/python/english3e/index.html
+- https://www.includehelp.com/python/
+- https://developers.google.com/edu/python
+- http://automatetheboringstuff.com/#toc
 
 
 [1]: https://github.com/helmiz/belajar-python/blob/master/1.introduction/number.py
@@ -101,9 +101,9 @@ http://automatetheboringstuff.com/#toc
 [30]: https://github.com/helmiz/belajar-python/blob/master/4.modules/package.py
 [31]: https://github.com/helmiz/belajar-python/blob/master/5.io/fancierOutput.py
 [32]: https://github.com/helmiz/belajar-python/blob/master/5.io/readingwriting.py
-[33]:
-[34]:
-[35]:
+[33]: https://github.com/helmiz/belajar-python/blob/master/6.errors_exceptions/syntax.py
+[34]: https://github.com/helmiz/belajar-python/blob/master/6.errors_exceptions/exceptions.py
+[35]: https://github.com/helmiz/belajar-python/blob/master/6.errors_exceptions/handlingExceptions.py
 [36]:
 [37]:
 [38]:

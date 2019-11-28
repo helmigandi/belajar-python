@@ -41,7 +41,7 @@
 7. __Classes__
     - 7.1. [Class Part 1][36] and [Class Part 2][37]
     - 7.2. Inheritance [Part 1][38], [Part 2][39] and [Part 3][40] | [Example 1][41] and [Example 2][42]
-    - 7.3. [Generators][43]
+    - 7.3. [Generators and Yield][43]
 
 
 
@@ -114,7 +114,8 @@ Sources:
 [42]: https://github.com/helmiz/belajar-python/blob/master/7.classes/hr.py
 [43]: https://github.com/helmiz/belajar-python/blob/master/7.classes/Generators.py
 
-# Update
+<!--Update-->
+
 [44]: https://github.com/helmiz/belajar-python/blob/master/2.control_flow/functions1.py
 [45]: https://github.com/helmiz/belajar-python/blob/master/2.control_flow/functions2.py
 [46]: https://github.com/helmiz/belajar-python/blob/master/2.control_flow/zip.py
